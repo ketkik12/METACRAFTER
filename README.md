@@ -11,7 +11,7 @@ I wrote the code using the Solidity programming language, and I used Metacrafter
  I had a challenge to make a contract on the basis to mint and burn the token ., where I make a there variable : two strings and one uint 
 1. Strings as tokenname 
 2. Strings as tokenabbr (Abbreviation) 
-3. uint as a totalsupply (Which i initial set as to be zero)
+3. uint as a totalsupply (Which I initially set as to be zero)
 
 
 ### Setup
